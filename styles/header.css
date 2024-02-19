@@ -13,17 +13,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1em;
+    position: relative;
 }
 
 .container {
     display: flex;
+    align-items: center;
 }
 
 .container__imagem {
-    padding: 1em;
-
-    
+    padding: 1em;    
 }
 
 .lista-menu {
