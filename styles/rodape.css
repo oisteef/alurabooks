@@ -7,7 +7,7 @@ hr {
     padding: 1em;
 }
 
-.lista-rodapé {
+.lista-rodape {
     display: none;
 }
 
@@ -17,7 +17,7 @@ hr {
         justify-content: space-around;
     }
 
-    .lista-rodapé {
+    .lista-rodape {
         display: block;
     }
 
