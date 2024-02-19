@@ -36,7 +36,15 @@ hr {
     .lista-rodape__titulo {
         font-size: 14px;
         color: var(--cinza-claro);
-    }
+    }   
+}
 
-    
+@media screen and (min-width:1728px) {
+    .lista-rodape {
+        border-left: var(--cinza-claro);
+        padding-left: 1em;
+    }
+    .rodape {
+        padding: 3em 0;
+    }
 }
